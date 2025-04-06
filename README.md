@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 <h2>Skills</h2>
+<br/>
 <table align="center">
   <tr>
     <td><strong>👨‍💻 Languages</strong></td>
@@ -109,6 +110,7 @@ Here are some ideas to get you started:
 
 
 <h2>Connect With</h2>
+<br/>
 <p>
   <a href="mailto:guri930219@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
