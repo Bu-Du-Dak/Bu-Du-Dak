@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&multiline=true&width=600&height=80&lines=Engineering%20ideas%20into%20reality" />
 </p>
-<p align="center">
-  <strong>Clean code. Better every day</strong>
-  <p align="center">Web developer since 2021, passionate about learning and growing with new technologies</p>
-</p>
+
+  <h3 align="center">Clean code. Better every day</h3>
+  <h4 align="center">Web developer since 2021, passionate about learning and growing with new technologies</h4>
+
+
+<br/>
 
 <h2>OverView</h2>
 <div align="center">
@@ -64,7 +66,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 <h2>Connect With</h2>
-<p align="center">
+<p>
   <a href="mailto:guri930219@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
