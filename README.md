@@ -70,6 +70,7 @@ Here are some ideas to get you started:
   <a href="mailto:guri930219@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
+  
   <a href="https://www.linkedin.com/in/%EC%9E%AC%ED%9B%88-%ED%99%8D-5789582a7/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
