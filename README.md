@@ -43,41 +43,79 @@ Here are some ideas to get you started:
 </div>
 
 <h2>Skills</h2>
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="TypeScript" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" alt="React" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" width="65" alt="Storybook" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" alt="GraphQL" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" alt="RestAPI" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" alt="Docker" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" alt="Github" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" alt="AWS" />
-</p>
-<h4>👨‍💻 Languages</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
-<h4>⚙️ Frameworks / Libraries</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,django" />
-<h4>📦 Package Managers</h4>
-<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
-<h4>🎨 Styling / UI</h4>
-<img src="https://skillicons.dev/icons?i=tailwind,styledcomponents" />
-<h4>🔧 Development Tools</h4>
-<img src="https://skillicons.dev/icons?i=github,docker,vercel" />
-<h4>🔌 Backend / API</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,graphql" />
-<h4>🗄️ Database</h4>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<table align="center">
+  <tr>
+    <td><strong>👨‍💻 Languages</strong></td>
+    <td>
+      
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" alt="TypeScript" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=html"  width="55"/>
+      <img src="https://skillicons.dev/icons?i=css"  width="55"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Frameworks / Libraries</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" alt="React" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" alt="django" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📦 Package Managers</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=npm" width="55"/>
+      <img src="https://skillicons.dev/icons?i=yarn" width="55"/>
+      <img src="https://skillicons.dev/icons?i=pnpm" width="55"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Styling / UI</strong></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/storybook-icon.svg" width="55" alt="Storybook" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="55"/>
+    </td>
+  </tr>
+   <tr>
+    <td><strong>🔌 Backend / API</strong></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" alt="GraphQL" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" alt="RestAPI" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Development Tools</strong></td>
+    <td>
+      
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" alt="Github" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" alt="AWS" />
+    </td>
+  </tr>
+ 
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" />
+    </td>
+  </tr>
+</table>
+
 
 <h2>Connect With</h2>
 <p>
   <a href="mailto:guri930219@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
   
   <a href="https://www.linkedin.com/in/%EC%9E%AC%ED%9B%88-%ED%99%8D-5789582a7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
 </p>
 
