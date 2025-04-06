@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&multiline=true&width=600&height=80&lines=Engineering%20ideas%20into%20reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FFFFFF&center=true&multiline=true&width=600&height=80&lines=Engineering%20ideas%20into%20reality" />
 </p>
 
   <h3 align="center">Clean code. Better every day</h3>
