@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bu-du-dak&theme=tokyonight&v=1" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bu-du-dak&theme=tokyonight&exclude=html,CSS,Jupyter%20Notebook&v=1" height="180em" alt="Most Commits Languages"/>
   <br/><br/><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bu-du-dak&theme=tokyonight&exclude=html,CSS,Jupyter%20Notebook&v=1" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bu-du-dak&theme=tokyonight&utcOffset=5.30" height="180em" alt="Productive Time"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bu-du-dak&theme=tokyonight&utcOffset=9" height="180em" alt="Productive Time"/>
   <br/><br/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bu-du-dak&theme=tokyonight" height="176em" alt="Profile Details"/>
   <br/><br/>
